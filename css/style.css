@@ -1,0 +1,202 @@
+body {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.header-item{
+    height: 100px;
+    width: 100%;
+}
+.header-item ul{
+    margin: 0;
+    padding-right: 20px;
+    list-style: none;
+    text-align: right;
+}
+.header-item ul li{
+    display: inline-block;
+}
+.header-item ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 0px 20px;
+    line-height: 60px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.text-width{
+    width: 40%;
+    float: left;
+    padding-left: 10%;
+    padding-top: 160px;
+}
+.text-width p{
+    margin-bottom: 50px;
+    padding-right: 220px;
+}
+.images-width img{
+    width: 100%;
+}
+.images-width{
+    width: 45%;
+    float: left;  
+}
+.name-highlight{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+    margin: 0;
+}
+.text-width a {
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+}
+ section{
+    height: 650px;
+} 
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
+#about{
+    padding-top: 80px;
+    padding-left: 100px;
+}
+.half-width p{
+    font-size: 18px;
+    color:  #1c2833 ;
+    margin-bottom: 50px;
+}
+.half-width a{
+    text-decoration: none;
+    padding: 20px 40px;
+    color: white;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    border-radius: 10px;
+}
+.one{
+    width: 30.80%;
+    float: left;
+    margin-right: 10px;
+    height: 320px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 10px;
+    margin-top: 30px;
+    background-color: white;
+}
+.one img{
+    width: 100%;
+}
+.two{
+    margin-right: 0;
+}
+.main_part{
+    padding: 0 10%;
+}
+.text_center{
+    text-align: center;
+}
+.one h5{
+    margin: 0;
+    font-size: 20px;
+    color: black;
+    margin: 5px 0;
+}
+.one p{
+    margin: 0;
+    font-size: 16px;
+    color: #808080;
+}
+.color{
+    color: lightcoral;
+    font-size: 40px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.text_center{
+    color: #2c3e50;
+    font-size: 40px;
+    font-weight: 500;
+    text-transform: uppercase;
+    padding-top: 40px;
+}
+#background{
+    background-color:  #f2f3f4;
+}
+.design{
+    color: #1c2833;
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.next-part {
+	width: 62%;
+	background-image: url(../images/Group_33094_1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 119px 37px;
+	margin: 50px 250px 0;
+}
+.inquiry-left h3 {
+    color: #fff;
+    font-size: 40px;
+    margin: 0;
+}
+.inquiry-right a {
+    text-decoration: none;
+    background-image: linear-gradient(salmon, tomato);
+    color: #fff;
+    padding: 15px 40px;
+    border-radius: 5px;
+    display: block;
+    float: right;
+}
+.inquiry-left, .inquiry-right{
+    width: 50%;
+    float: left;
+}
+#inquiry{
+    height: 300px;
+}
+.foot-text{
+    text-align: center;
+}
+.foot-icons{
+    text-align: center;
+}
+.foot-icons ul{
+    list-style: none;
+}
+.foot-icons ul li{
+    display: inline-block;
+    padding: 0 10px;
+}
+.foot-text h3{
+    color: lightslategrey;
+    font-size: 22px;
+    font-weight: 500;
+    margin: 0;
+}
+.foot-text h4{
+    color: black;
+    font-size: 22px;
+    font-weight: 500;
+    margin: 0;
+}
+footer{
+    padding: 30px 0;
+}
